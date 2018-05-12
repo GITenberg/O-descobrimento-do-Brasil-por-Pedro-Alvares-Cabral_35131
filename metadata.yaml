@@ -1,0 +1,30 @@
+_repo: O-descobrimento-do-Brasil-por-Pedro-Alvares-Cabral_35131
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baldaque da Silva, Antonio Arthur
+    aliases:
+    - Da Silva, Antonio Artur Baldaque
+    - Silva, Antonio Artur Baldaque da
+    birthdate: 1852
+    gutenberg_agent_id: '37482'
+    url: http://www.gutenberg.org/2009/agents/37482
+description: ''
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35131'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- Discovery and exploration'
+- !lcsh 'Cabral, Pedro Alvares, -1520?'
+- !lcc 'E011'
+- !lcsh 'Discoveries in geography'
+title: O descobrimento do Brasil por Pedro Alvares Cabral
+url: http://www.gutenberg.org/ebooks/35131
